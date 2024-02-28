@@ -1,4 +1,5 @@
 # Adventure Works - Interim Project
+
 ## Table of Contents 
 [Project Overview](#project-overview)
 
@@ -23,6 +24,7 @@ This project aims to provide insight into a company's customer demographic as we
 
 Link to the presentation: https://docs.google.com/presentation/d/1al2H_mAnvzocUQ9SMGTI23cRr0hj3dWjiWP2YlqbpcA/edit#slide=id.g29e572e9e43_2_19
 
+
 ## Data Sources
 The data was from Adventure Works 2019 
 
@@ -35,10 +37,10 @@ The data contained information on:
 
 The data source can be found here:  https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
 
+
 ## Tools
 - SQL - SSMS - Querying 
 - Python - matplotlib and pandas - Visualisation  
-
 
 ## Data Preparation 
 1. Loaded the database into SMSS
